@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "769573364375",
+    "project_id": "foodpanda-clone-app-593bc",
+    "storage_bucket": "foodpanda-clone-app-593bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769573364375:android:56faf5211bd6d0ffefffd2",
+        "android_client_info": {
+          "package_name": "com.jonathan.foodpanda_usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769573364375-jt8o6p9vat9s7k2peramffa5q0jhhms2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrvZJcPX1Yp0ejel79uvX8mFeMS_z3sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769573364375-jt8o6p9vat9s7k2peramffa5q0jhhms2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769573364375:android:8ca67342271e69ddefffd2",
+        "android_client_info": {
+          "package_name": "com.jonathan.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769573364375-jt8o6p9vat9s7k2peramffa5q0jhhms2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrvZJcPX1Yp0ejel79uvX8mFeMS_z3sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769573364375-jt8o6p9vat9s7k2peramffa5q0jhhms2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769573364375:android:36c24e5df67529a2efffd2",
+        "android_client_info": {
+          "package_name": "com.jonathan.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769573364375-jt8o6p9vat9s7k2peramffa5q0jhhms2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrvZJcPX1Yp0ejel79uvX8mFeMS_z3sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769573364375-jt8o6p9vat9s7k2peramffa5q0jhhms2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
